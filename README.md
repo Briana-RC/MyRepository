@@ -9,4 +9,3 @@ Ejecuta el script en una terminal:
 
 ```bash
 bash simple-interest.sh
-Corregido un error tipográfico en README.md
